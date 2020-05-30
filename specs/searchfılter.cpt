@@ -1,0 +1,24 @@
+Created by testinium on 28.05.2020
+
+This is a concept file with following syntax for each concept.
+# Search Filter Adresine Gidilir
+*"1" saniye bekle
+# Search Filter Veriler Listesi Kontrol Edilir
+*"SearchFilterLıst" elementinin "1" degerini  bul ve "Name" degeri içeriyor mu kontrol et
+*"KayıtNumarası" kayıt numarası bul
+# Kayıt Olusturma Butonuna Tıklanır
+*"+" elementine tıkla
+# Input Alanları Doldurulur Ve Kaydedilir
+*"NameInput" elementine "MehmetAliTesst" degerini gönder
+*"FilterInput" elementine "(&(foo=bar)(baz=foo))" degerini gönder
+*"DescriptionInput" elementine "Deneme yapılıyor.." degerini gönder
+*"SaveBtn" elementine tıkla
+*"1" saniye bekle
+# Kayıt Kontrol Edilir
+*"KayıtLıstesıDegerlerı" elementlerini bul ve karsılastır
+# Olusturulan Kayıt Silinir
+*"DeleteBtn" elementine tıkla
+*"OkeyBtn" elementine tıkla
+
+
+

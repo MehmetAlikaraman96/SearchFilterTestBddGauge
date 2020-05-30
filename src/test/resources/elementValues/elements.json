@@ -1,0 +1,73 @@
+[
+
+  {
+    "key": "SearchFilterLıst",
+    "value": "MuiTableCell-root",
+    "type": "className"
+  },
+  {
+    "key": "+",
+    "value": ".jss349",
+    "type": "css"
+  },
+  {
+    "key": "lıste",
+    "value": ".MuiTableRow-head",
+    "type": "css"
+  },
+  {
+    "key": "NameInput",
+    "value": "[name='name']",
+    "type": "css"
+  },
+  {
+    "key": "FilterInput",
+    "value": "[name='filter']",
+    "type": "css"
+  },
+  {
+    "key": "DescriptionInput",
+    "value": "[name='description']",
+    "type": "css"
+  },
+  {
+    "key": "SaveBtn",
+    "value": "//button[.='Save']",
+    "type": "xpath"
+  },
+  {
+    "key": "KayıtLıstesı",
+    "value": "//div[@class='jss347']/table/tbody/tr/td[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "KayıtLıstesıDegerlerı",
+    "value": "MuiTableCell-root",
+    "type": "className"
+  },
+  {
+    "key": "KayıtNumarası",
+    "value": "//div[@class='MuiTablePagination-root']/div/p[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "DeleteBtn",
+    "value": "//tr[2]//button[.='Delete']",
+    "type": "xpath"
+  },
+  {
+    "key": "OkeyBtn",
+    "value": "//button[.='Ok']",
+    "type": "xpath"
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  },
+  {
+    "key": "",
+    "value": "",
+    "type": ""
+  }
+]
